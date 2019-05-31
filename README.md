@@ -1,7 +1,8 @@
 # learn-vue 个性化家装项目-VUE
 
 > A Vue.js project
-
+在此【个性化家装】项目中你可以学习搭建vue项目的框架: 包括API的封装、路由封装、vuex状态管理、组件封装、模块化、sass、iconfont...等, 下载安装打开有惊喜哦！
+持续更新中~
 ## Build Setup
 
 ``` bash
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+注意: 如果安装卡在chromedriver
+请先执行： npm config set chromedriver_cdnurl https://npm.taobao.org/mirrors/chromedriver

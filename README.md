@@ -1,8 +1,9 @@
 # learn-vue 个性化家装项目-VUE
-
+[预览](http://39.100.3.77:8999/)
 > A Vue.js project
 在此【个性化家装】项目中你可以学习搭建vue项目的框架: 包括API的封装、路由封装、vuex状态管理、组件封装、模块化、sass、iconfont...等, 下载安装打开有惊喜哦！
 持续更新中~
+
 ## Build Setup
 
 ``` bash

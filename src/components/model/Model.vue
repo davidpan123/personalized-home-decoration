@@ -184,11 +184,11 @@ export default {
                     desc: '现代卧室',
                     url: 'https://3vj-render.3vjia.com/UpFile_Render/C00000022/DesignSchemeRenderFile/201708/22/06022750/1738ab1beecc4161a97d071d0b208e31.jpg?x-oss-process=image/resize,m_fixed,w_600&v=1.0.0.0.2019053001',
                     materials: [
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/26/03833208/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/21/03833228/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/17/03856775/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201901/8/07577677/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/20/07809898/RenderImage_130x100.jpg?v=0.0.0.0.2019053001'
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966329/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966331/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966341/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982725/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982726/RenderImage_130x100.jpg?v=0.0.0.0.20190716'
                     ]
                 },
                 {
@@ -196,11 +196,11 @@ export default {
                     desc: '新中式客厅',
                     url: 'https://3vj-render.3vjia.com/UpFile_Render/C00000022/DesignSchemeRenderFile/201807/19/15331775/21a290d2a0114ed0b3487ae156ef00d2.jpg?x-oss-process=image/resize,m_fixed,w_600&v=1.0.0.0.2019053001',
                     materials: [
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/26/03833208/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/21/03833228/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/17/03856775/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201901/8/07577677/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/20/07809898/RenderImage_130x100.jpg?v=0.0.0.0.2019053001'
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966329/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966331/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966341/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982725/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982726/RenderImage_130x100.jpg?v=0.0.0.0.20190716'
                     ]
                 },
                 {
@@ -208,23 +208,23 @@ export default {
                     desc: '现代卧室',
                     url: 'https://3vj-render.3vjia.com/UpFile_Render/C00000022/DesignSchemeRenderFile/201805/21/11863569/8ad27a7a91f34d9389bfc9ff41dac27b.jpg?x-oss-process=image/resize,m_fixed,w_600&v=1.0.0.0.2019053001',
                     materials: [
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/26/03833208/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/21/03833228/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/17/03856775/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201901/8/07577677/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/20/07809898/RenderImage_130x100.jpg?v=0.0.0.0.2019053001'
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966329/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966331/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966341/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982725/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982726/RenderImage_130x100.jpg?v=0.0.0.0.20190716'
                     ]
                 },
                 {
                     id: 4,
                     desc: '新中式客厅',
-                    url: 'http://img2.3vjia.com/UpFile/C00000022/PMC/SecenMaterial/201708/C00000022/92234ed624ff477eaaf3b05fa301bdac_600w.jpg?v=1.0.0.0.2019053001',
+                    url: 'https://3vj-render.3vjia.com/UpFile_Render/C00000022/DesignSchemeRenderFile/201708/22/06022750/1738ab1beecc4161a97d071d0b208e31.jpg?x-oss-process=image/resize,m_fixed,w_600&v=1.0.0.0.2019053001',
                     materials: [
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/26/03833208/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/21/03833228/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/17/03856775/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201901/8/07577677/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/20/07809898/RenderImage_130x100.jpg?v=0.0.0.0.2019053001'
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966329/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966331/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966341/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982725/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982726/RenderImage_130x100.jpg?v=0.0.0.0.20190716'
                     ]
                 },
                 {
@@ -232,11 +232,11 @@ export default {
                     desc: '现代卧室',
                     url: 'https://3vj-render.3vjia.com/UpFile_Render/C00000022/DesignSchemeRenderFile/201708/22/06022750/1738ab1beecc4161a97d071d0b208e31.jpg?x-oss-process=image/resize,m_fixed,w_600&v=1.0.0.0.2019053001',
                     materials: [
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/26/03833208/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/21/03833228/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/17/03856775/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201901/8/07577677/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/20/07809898/RenderImage_130x100.jpg?v=0.0.0.0.2019053001'
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966329/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966331/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966341/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982725/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982726/RenderImage_130x100.jpg?v=0.0.0.0.20190716'
                     ]
                 },
                 {
@@ -244,11 +244,11 @@ export default {
                     desc: '新中式客厅',
                     url: 'https://3vj-render.3vjia.com/UpFile_Render/C00000022/DesignSchemeRenderFile/201807/19/15331775/21a290d2a0114ed0b3487ae156ef00d2.jpg?x-oss-process=image/resize,m_fixed,w_600&v=1.0.0.0.2019053001',
                     materials: [
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/26/03833208/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/21/03833228/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/17/03856775/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201901/8/07577677/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/20/07809898/RenderImage_130x100.jpg?v=0.0.0.0.2019053001'
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966329/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966331/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966341/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982725/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982726/RenderImage_130x100.jpg?v=0.0.0.0.20190716'
                     ]
                 },
                 {
@@ -256,23 +256,23 @@ export default {
                     desc: '现代卧室',
                     url: 'https://3vj-render.3vjia.com/UpFile_Render/C00000022/DesignSchemeRenderFile/201805/21/11863569/8ad27a7a91f34d9389bfc9ff41dac27b.jpg?x-oss-process=image/resize,m_fixed,w_600&v=1.0.0.0.2019053001',
                     materials: [
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/26/03833208/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/21/03833228/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/17/03856775/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201901/8/07577677/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/20/07809898/RenderImage_130x100.jpg?v=0.0.0.0.2019053001'
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966329/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966331/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966341/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982725/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982726/RenderImage_130x100.jpg?v=0.0.0.0.20190716'
                     ]
                 },
                 {
                     id: 8,
                     desc: '新中式客厅',
-                    url: 'http://img2.3vjia.com/UpFile/C00000022/PMC/SecenMaterial/201708/C00000022/92234ed624ff477eaaf3b05fa301bdac_600w.jpg?v=1.0.0.0.2019053001',
+                    url: 'https://3vj-render.3vjia.com/UpFile_Render/C00000022/DesignSchemeRenderFile/201805/21/11863569/8ad27a7a91f34d9389bfc9ff41dac27b.jpg?x-oss-process=image/resize,m_fixed,w_600&v=1.0.0.0.2019053001',
                     materials: [
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/26/03833208/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201812/21/03833228/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/17/03856775/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile_Render/C00000022/DesignMaterial/201901/8/07577677/RenderImage_130x100.jpg?v=0.0.0.0.2019053001',
-                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201901/20/07809898/RenderImage_130x100.jpg?v=0.0.0.0.2019053001'
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966329/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966331/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44966341/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982725/RenderImage_130x100.jpg?v=0.0.0.0.20190716',
+                        'http://img2.3vjia.com/UpFile/C00000022/DesignMaterial/201906/24/44982726/RenderImage_130x100.jpg?v=0.0.0.0.20190716'
                     ]
                 }
             ]
